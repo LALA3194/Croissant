@@ -2,7 +2,9 @@ body {
   background: #f8e8a6;
 }
 
-.img-fluid {
-  max-width: 100%;
-  height: auto;
+.croissant-photo {
+  max-width: 50%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
