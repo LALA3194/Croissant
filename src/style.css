@@ -6,6 +6,12 @@ p {
   display: block;
   text-align: center;
 }
+h1 {
+  margin: 21px 0;
+}
+p {
+  margin: 16px 0;
+}
 .croissant-photo {
   max-width: 50%;
   border-radius: 10px;
